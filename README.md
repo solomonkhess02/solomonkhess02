@@ -7,7 +7,7 @@
 
 ##  Connect
 
-- 📄 [Download Resume](https://raw.githubusercontent.com/solomonkhess02/Resume/main/Solomon_Khess_Resume.pdf)
+- 📄 [Resume](https://raw.githubusercontent.com/solomonkhess02/Resume/main/Solomon_Khess_Resume.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/solomon-khess-12139023b/)
 ---
 
