@@ -1,112 +1,194 @@
-#  Hi, I'm Solomon Khess
+# Hi, I'm Solomon Khess 👋
 
-🎓 Final-year Dual Degree (B.Tech + M.Tech), IIT Bhubaneswar
-🤖 Machine Learning & AI Engineer focused on **time-series intelligence, nonlinear systems, and autonomous AI pipelines**
+🎓 Final-Year Dual Degree Student (B.Tech + M.Tech) at **IIT Bhubaneswar**
 
----
+🤖 **Machine Learning & AI Engineer** specializing in:
 
-##  Connect
+* Agentic AI Systems
+* MLOps & Production ML
+* Computer Vision
+* Time-Series Intelligence
+* Industrial AI Applications
 
-- 📄 [Resume](https://raw.githubusercontent.com/solomonkhess02/Resume/main/Resume_2.4(OFF).pdf)
-- 💼 [LinkedIn](https://www.linkedin.com/in/solomon-khess-12139023b/)
----
-
-##  Core Focus Areas
-
-* Time-Series Forecasting (LSTM, XGBoost, Hybrid Models)
-* Nonlinear Dynamics & Chaos-Based Feature Engineering
-* Autonomous AI Systems (Multi-Agent LLM Pipelines)
-* Industrial AI Applications (Energy, Metallurgy, Process Systems)
+My work focuses on building intelligent systems that combine **Machine Learning**, **Nonlinear Dynamics**, and **Generative AI** to solve real-world industrial and enterprise problems.
 
 ---
 
-##  Featured Projects
+## 🔗 Connect
 
-###  Steam Temperature Prediction (NTPC)
+* 📄 [Resume](https://github.com/solomonkhess02/Resume/raw/main/Solomon_Khess_Resume_3.1.pdf)
+* 💼 [LinkedIn]([url](https://www.linkedin.com/in/solomonkhess/))
+* 💻 [GitHub Portfolio]([url](https://github.com/solomonkhess02))
 
-* Built **LSTM + XGBoost hybrid models** for superheater steam temperature forecasting
+---
+
+## 🚀 Areas of Expertise
+
+### Machine Learning & Time-Series Intelligence
+
+* LSTM
+* XGBoost
+* Feature Engineering
+* Forecasting Systems
+* Hurst Exponent Analysis
+* Recurrence Quantification Analysis (RQA)
+* Chaos Theory & Nonlinear Dynamics
+
+### Agentic AI & Generative AI
+
+* LangGraph
+* Multi-Agent Systems
+* ReAct Agents
+* RAG (Retrieval-Augmented Generation)
+* OpenAI
+* Gemini
+* LangChain
+
+### MLOps & Production Systems
+
+* MLflow
+* FastAPI
+* Docker
+* Celery
+* Redis
+* PostgreSQL + pgvector
+* AWS EC2 / ECS
+* Evidently AI
+
+### Computer Vision
+
+* OpenCV
+* OCR Systems
+* TrOCR
+* Donut
+* LayoutLMv3
+* Image Segmentation
+* Industrial Vision Systems
+
+---
+
+## ⭐ Featured Projects
+
+### MedOCR Intelligence Platform
+
+**Agentic AI • MLOps • Computer Vision • Document AI**
+
+* Architected a Multi-Model Document AI Pipeline using **TrOCR**, **Donut**, **LayoutLMv3**, and **OpenCV**
+* Designed an **8-Agent LangGraph System** powered by **Google Gemini**
+* Implemented **RAG-based Semantic Retrieval** using **PostgreSQL + pgvector**
+* Built a production-grade **MLOps Stack** with **FastAPI**, **Docker**, **Redis**, **Celery**, **MLflow**, and **Evidently AI**
+
+---
+
+### Autonomous Data Science Pipeline
+
+**Agentic AI • LangGraph**
+
+* Developed a multi-agent system that automates:
+
+  * Exploratory Data Analysis
+  * Data Cleaning
+  * Predictive Modelling
+  * Model Evaluation
+
+* Built **ReAct Agents** with self-correction loops and secure Python execution environments.
+
+---
+
+### Industrial AI for Thermal Power Plants (NTPC)
+
+**Machine Learning • Time-Series Forecasting**
+
+* Developed **LSTM** and **XGBoost** forecasting models for Superheater Steam Temperature Prediction.
 * Applied:
 
-  * Hurst Exponent (non-stationarity detection)
-  * mRMR, AIC, t-statistics (feature selection)
+  * Hurst Exponent Analysis
+  * Chaos Theory
+  * Dynamic Feature Selection
   * Recurrence Quantification Analysis (RQA)
-* Captured nonlinear system behavior for improved stability in predictions
+
+to model nonlinear industrial process behaviour.
 
 ---
 
-###  Autonomous Data Science Pipeline (Multi-Agent AI)
+### On-line Particle Size Determination Device
 
-* Developed a **LangGraph-based multi-agent system** for:
+**Computer Vision • Industrial Automation**
 
-  * EDA → Data Cleaning → Modeling → Evaluation
-* Implemented:
+* Developed a TRL-validated real-time particle size analysis system.
+* Built image-processing pipelines using:
 
-  * ReAct agents with self-correction loops
-  * Secure Python execution sandbox
-* Built scalable backend using:
-
-  * FastAPI + Docker + AWS ECS/EC2
-  * Multi-provider LLM interface (OpenAI, Gemini, Ollama)
+  * Watershed Segmentation
+  * Otsu Thresholding
+  * Feature Extraction
+* Developed a PyQt5-based application for industrial deployment.
 
 ---
 
-###  LLM-Based Resume Intelligence System
+## 📚 Research
 
-* Built an **LLM-powered parsing + classification system**
-* Features:
+### Publications
 
-  * Semantic chunking
-  * Structured entity extraction
-  * Confidence-based classification
-* Backend:
+* **Uncovering Chaos and Complexity of Reactions in BOF and AOD for Improved Process Control**
 
-  * FastAPI + Pydantic pipelines
-  * High-throughput batch processing
+  * Presented at **STIS-V 2025**, IISc Bengaluru
 
----
+### Ongoing Research
 
-###  Particle Size Analysis (Computer Vision)
+* **Steam Generation Process: Nonlinear Dynamics and Statistical Signal Analysis**
 
-* Developed a **real-time CV system (TRL-5 validated)**
-* Techniques:
-
-  * Watershed segmentation
-  * Feature extraction pipeline
-* Built GUI for:
-
-  * Calibration
-  * Live processing
-  * Batch export
+  * M.Tech Thesis
+  * Time-Series Analysis
+  * Chaos Theory
+  * Industrial AI
 
 ---
 
-##  Tech Stack
+## 🛠 Tech Stack
 
-**Languages:** Python, C++, SQL
-**ML/DL:** TensorFlow, Keras, Scikit-Learn, XGBoost, LightGBM
-**Time-Series & Stats:** Hurst Exponent, RQA, Chaos Theory
-**GenAI:** LangGraph, LangChain, OpenAI, Gemini, Multi-Agent Systems
-**Backend:** FastAPI, REST APIs, WebSockets
-**Infra:** Docker, AWS (EC2, ECS)
-**Data:** Pandas, NumPy, Plotly, Matplotlib
+**Languages**
+
+* Python
+* SQL
+
+**Machine Learning**
+
+* TensorFlow
+* Keras
+* Scikit-Learn
+* XGBoost
+* LightGBM
+
+**GenAI**
+
+* LangGraph
+* LangChain
+* OpenAI
+* Gemini
+
+**Backend & MLOps**
+
+* FastAPI
+* MLflow
+* Docker
+* Redis
+* PostgreSQL
+* Celery
+
+**Cloud**
+
+* AWS EC2
+* AWS ECS
 
 ---
 
-##  Research & Publications
+## 🎯 Current Focus
 
-* Chaos & Complexity in BOF and AOD (Presented at IISc Bangalore – STIS-V 2025)
-* Steam Generation Process: Nonlinear Dynamics & Signal Analysis *(Manuscript in progress)*
+* Agentic AI Systems
+* Production MLOps
+* Industrial AI
+* Time-Series Intelligence
+* RAG Architectures
+* Multi-Agent Reasoning Systems
 
----
-
-##  Current Focus
-
-* Hybrid AI systems combining **deep learning + nonlinear dynamics**
-* Autonomous AI agents for **end-to-end data science workflows**
-* Scaling ML systems for **industrial deployment**
-
-
-
----
-
-⭐ Building intelligent systems that bridge **AI theory and real-world industrial processes**
+⭐ Building AI systems that bridge research, engineering, and industrial deployment.
