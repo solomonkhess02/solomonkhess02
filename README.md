@@ -17,8 +17,8 @@ My work focuses on building intelligent systems that combine **Machine Learning*
 ## 🔗 Connect
 
 * 📄 [Resume](https://github.com/solomonkhess02/Resume/raw/main/Solomon_Khess_Resume_3.1.pdf)
-* 💼 [LinkedIn]((https://www.linkedin.com/in/solomonkhess/))
-* 💻 [GitHub Portfolio]((https://github.com/solomonkhess02))
+* 💼 [LinkedIn](https://www.linkedin.com/in/solomonkhess/)
+* 💻 [GitHub Portfolio](https://github.com/solomonkhess02)
 
 ---
 
