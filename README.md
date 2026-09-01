@@ -22,7 +22,7 @@ I enjoy taking systems from **idea → architecture → implementation → evalu
 ## 🔗 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/solomonkhess/)
-- 📄 [Resume](https://github.com/solomonkhess02/Resume)
+- 📄 [Resume](https://github.com/solomonkhess02/Resume/raw/main/Resume_3.4.pdf)
 - 💻 [GitHub](https://github.com/solomonkhess02)
 
 ---
