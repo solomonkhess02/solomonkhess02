@@ -4,7 +4,7 @@
 
 🎓 **B.Tech–M.Tech, IIT Bhubaneswar '26**
 
-I build **AI systems that go beyond simple LLM API calls** — with a focus on agentic workflows, retrieval, evaluation, reliability, and production-oriented engineering.
+I build **AI systems with a focus on agentic workflows, retrieval, evaluation, and reliability**.
 
 My work spans:
 
@@ -15,7 +15,7 @@ My work spans:
 - 📊 Machine Learning & Time-Series Intelligence
 - ⚙️ MLOps, APIs & AI Infrastructure
 
-I enjoy taking systems from **idea → architecture → implementation → evaluation → deployment**, and I’m particularly interested in making AI systems reliable enough to be useful outside a demo.
+I enjoy taking systems from **idea → architecture → implementation → evaluation → deployment**, with a focus on building AI that is useful, reliable, and maintainable beyond a demo.
 
 ---
 
@@ -44,7 +44,7 @@ A grounded AI growth assistant built over a curated corpus of Lenny's Podcast ep
 - Built **provider-level routing and provenance tracking**
 - Added streamed generation and structured error handling
 - Built **332 automated tests** covering retrieval, grounding, workflows, and failure cases
-- Identified and fixed real system failures involving:
+- Identified and fixed real production-path failures involving:
   - concurrent persistence races
   - Docker runtime drift
   - prompt leakage
@@ -53,6 +53,9 @@ A grounded AI growth assistant built over a curated corpus of Lenny's Podcast ep
 
 🔗 **Repository:**  
 https://github.com/solomonkhess02/lenny-growth-assistant
+
+🎥 **Project walkthrough:**  
+https://youtu.be/lJx8wnlkFqs
 
 ---
 
@@ -84,7 +87,7 @@ A multi-agent system that automates parts of the data science workflow.
 - Containerized the system and deployed it using **AWS EC2/ECS**
 
 🔗 **Repository:**  
-[Add repository link]
+https://github.com/solomonkhess02/auto-analytics-agent
 
 ---
 
@@ -101,7 +104,7 @@ A multi-model document intelligence system for extracting structured information
   - **Donut**
   - **LayoutLMv3**
   - **OpenCV**
-- Worked with documents including:
+- Worked with:
   - handwritten prescriptions
   - invoices
   - lab reports
@@ -117,10 +120,10 @@ A multi-model document intelligence system for extracting structured information
 - Integrated monitoring and drift-analysis workflows
 
 🔗 **Repository:**  
-[Add repository link]
+https://github.com/solomonkhess02/MedOCR-Intelligence-Platform
 
 🎥 **Project walkthrough:**  
-[Add Loom / YouTube link]
+https://youtu.be/lq-w2N-NXOA
 
 ---
 
@@ -147,7 +150,7 @@ A real-time computer vision system for automated particle-size analysis on conve
 - Validated at **TRL-4** with Tata Steel Long Products Ltd.
 
 🔗 **Repository:**  
-[Add repository link]
+https://github.com/solomonkhess02/On-line-Particle-Size-Determination-Device-TRL-5-
 
 ---
 
@@ -214,7 +217,7 @@ Focus areas:
 `Python` `SQL`
 
 ### AI / ML
-`PyTorch` `TensorFlow` `Keras` `Scikit-learn` `XGBoost` `LightGBM`
+`TensorFlow` `Keras` `Scikit-learn` `XGBoost` `LightGBM`
 
 ### Generative AI
 `LangGraph` `LangChain` `RAG` `OpenAI` `Gemini` `Ollama`
